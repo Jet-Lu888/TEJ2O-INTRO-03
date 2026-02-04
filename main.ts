@@ -2,7 +2,7 @@
  *
  * Created by: Jet
  * Created on: Feb 2026
- * This program will print hello world.
+ * This program will print hello Jet.
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Jet!')
